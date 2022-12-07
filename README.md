@@ -18,14 +18,11 @@ This implementation provides a setup as demonstrated in the paper for the IEEE-1
 
 
 ```bibtex
-@INPROCEEDINGS{9838420,
+@article{chatterjee2022online,
+  title={Online Distributed Optimal Power Flow with Equality Constraints},
   author={Chatterjee, Sushobhan and Kalaimani, Rachel Kalpana},
-  booktitle={arXiv}, 
-  title={Online Distributed Optimal Power Flow with Equality Constraints}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={},
-  doi={}
+  journal={arXiv preprint arXiv:},
+  year={2022}
+}
   }
 ```
