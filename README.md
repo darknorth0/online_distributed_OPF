@@ -1,4 +1,4 @@
-1# Online Distributed Optimal Power Flow with Equality Constraints
+# Online Distributed Optimal Power Flow with Equality Constraints
 This repository is the official implementation of the paper [Online Distributed Optimal Power Flow with Equality Constraints.](https://arxiv.org/abs/)
 
 ## Abstract :
