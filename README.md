@@ -24,6 +24,5 @@ This implementation provides a setup as demonstrated in the paper for the IEEE-1
   journal={arXiv preprint arXiv:2212.03921},
   year={2022}
 }
-}
   }
 ```
