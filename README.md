@@ -1,5 +1,5 @@
 # Online Distributed Optimal Power Flow with Equality Constraints
-This repository is the official implementation of the paper [Online Distributed Optimal Power Flow with Equality Constraints.](https://arxiv.org/abs/)
+This repository is the official implementation of the paper [Online Distributed Optimal Power Flow with Equality Constraints.](https://arxiv.org/abs/2212.03921)
 
 ## Abstract :
 
@@ -21,8 +21,9 @@ This implementation provides a setup as demonstrated in the paper for the IEEE-1
 @article{chatterjee2022online,
   title={Online Distributed Optimal Power Flow with Equality Constraints},
   author={Chatterjee, Sushobhan and Kalaimani, Rachel Kalpana},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2212.03921},
   year={2022}
+}
 }
   }
 ```
